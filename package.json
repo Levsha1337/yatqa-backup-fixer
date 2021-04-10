@@ -1,0 +1,19 @@
+{
+  "name": "yatqa-backup-fixer",
+  "version": "1.0.0",
+  "description": "Convert full channels backup to minimal version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Levsha1337/yatqa-backup-fixer.git"
+  },
+  "author": "Levsha1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Levsha1337/yatqa-backup-fixer/issues"
+  },
+  "homepage": "https://github.com/Levsha1337/yatqa-backup-fixer#readme"
+}
